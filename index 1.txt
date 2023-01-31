@@ -1,2 +1,11 @@
 <html>
+<body>
+<main>
+<h1>My name is Arman Panda<h1>
+<p> I am from Cuttack,Athagada</p>
+<p>Currently I am Doing B-Tech in Trident Accadeamy of Technology <p>
+<p> Thats all about me </p>
+</main>
+</body>
+</html>
 
